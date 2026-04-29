@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langgraph
+sqlite-utils
+chromadb
+sentence-transformers
+

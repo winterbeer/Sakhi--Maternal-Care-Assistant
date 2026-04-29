@@ -1,0 +1,5 @@
+choices we took that are :
+structured profile store: sqlite
+vector db: chroma
+embedding model: sentence transformers
+llm: ollama llama2
